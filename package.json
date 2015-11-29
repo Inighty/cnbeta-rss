@@ -1,0 +1,11 @@
+{
+   "name":"cnbeta rss",
+   "main":"./app.js",
+   "dependencies":{
+	   "gbk-dict":"",
+	   "get":"",
+	   "mongoose":">=3.0.0",
+	   "request":"",
+	   "router":""
+   }
+}
